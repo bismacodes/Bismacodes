@@ -8,7 +8,9 @@
 ██████╔╝██║  ██║███████║██║  ██║██║██║  ██║
 ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝
 ```
-### `Full-Stack Web Developer` | ![Profile views counter](https://komarev.com/ghpvc/?username=bismacodes&&style=flat-square)  
+### `Full-Stack Web Developer`
+<br>
+![Profile views counter](https://komarev.com/ghpvc/?username=bismacodes&&style=flat-square)  
 
 
 ### Builder of Things That Work
