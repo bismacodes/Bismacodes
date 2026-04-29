@@ -9,7 +9,7 @@
 ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝
 ```
 ### `Full-Stack Web Developer`
-<br>
+<br />
 ![Profile views counter](https://komarev.com/ghpvc/?username=bismacodes&&style=flat-square)  
 
 
