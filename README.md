@@ -71,7 +71,7 @@ Builder of Things That Work
 ## /github stats  
 <div align="center">
   <img align="" src="https://github-readme-stats.vercel.app/api?username=bismacodes&show_icons=true&locale=en" alt="bismacodes" />
-  <img src="https://streak-stats.demolab.com?user=bismacodes&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" width="100%" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=bismacodes&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 
