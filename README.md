@@ -11,7 +11,7 @@
 ### `Full-Stack Web Developer` | ![Profile views counter](https://komarev.com/ghpvc/?username=bismacodes&&style=flat-square)  
 
 
-### Full-Stack Developer · Freelancer · Builder of Things That Work
+### Builder of Things That Work
 
 <a href="https://github.com/bismacodes" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
