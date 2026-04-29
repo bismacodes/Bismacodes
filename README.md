@@ -70,8 +70,8 @@ Builder of Things That Work
 
 ## /github stats  
 <div align="center">
-  <img align="" src="https://github-readme-stats.vercel.app/api?username=bismacodes&show_icons=true&locale=en" alt="bismacodes" width="50%" />
-  <img src="https://streak-stats.demolab.com?user=bismacodes&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" width="50%" alt="streak graph"  />
+  <img align="" src="https://github-readme-stats.vercel.app/api?username=bismacodes&show_icons=true&locale=en" alt="bismacodes" width="45%" />
+  <img src="https://streak-stats.demolab.com?user=bismacodes&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" width="45%" alt="streak graph"  />
 </div>
 
 
